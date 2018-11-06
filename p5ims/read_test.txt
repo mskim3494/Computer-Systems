@@ -1,0 +1,12 @@
+5 users:
+alice
+- alicefriend
+.
+bob
+- bobfriend
+.
+zoop
+- zoopfriend
+dick
+teddy
+end
